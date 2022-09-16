@@ -1,1 +1,1 @@
-# zdj-cia
+# zdjecia
